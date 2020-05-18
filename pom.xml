@@ -10,7 +10,7 @@
   <packaging>war</packaging>
 
   <name>luokeke Maven Webapp</name>
-  
+
   <url>http://www.luokeke.com</url>
 
   <properties>
